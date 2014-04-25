@@ -1,0 +1,12 @@
+{
+    "name":"jangamelo",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pomelo":"0.9.6",
+        "pomelo-sync-plugin":"0.0.1",
+        "generic-pool":"2.0.4",
+        "mysql":"2.1.1"
+    }
+}
+
